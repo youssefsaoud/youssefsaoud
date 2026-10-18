@@ -1,26 +1,6 @@
 
 <div align="center">
-
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,30&height=200&section=header&text=Youssef%20Saoud&fontSize=50&fontAlignY=35&animation=twinkling" width="100%" alt="Youssef Saoud banner" />
-
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&height=55&lines=Backend+Software+Developer;Java+%26+Spring+Boot;REST+APIs+%7C+PostgreSQL+%7C+Spring+Security;Building+Software+That+Solves+Real+Problems" alt="Typing animation" />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://github.com/youssefsaoud">
-    <img src="https://komarev.com/ghpvc/?username=youssefsaoud&color=007acc&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/youssefsaoud/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="https://medium.com/@saoud.youssef02013">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
-  </a>
-
 </div>
 
 ---
@@ -90,33 +70,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 E-commerce REST API</h3>
-      <p align="center">
-        Spring Boot backend featuring REST endpoints, persistence, validation, and API security.
-      </p>
-      <p align="center">
-        <a href="https://github.com/youssefsaoud/ecommerce-rest-api">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View E-commerce repository" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎓 Student Management API</h3>
-      <p align="center">
-        REST API with JWT authentication, role-based access control, JPA, validation, and Swagger documentation.
-      </p>
-      <p align="center">
-        <a href="https://github.com/youssefsaoud/springboot-StudentApi">
-          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Student API repository" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">🏢 Orqestra</h3>
       <p align="center">
-        Full-stack project and vendor management platform with Spring Boot, Angular, PostgreSQL, and role-based access.
+        Full-stack project and vendor management platform built with Spring Boot, Angular, and PostgreSQL. Features JWT security, role-based access, quotations, analytics, and employee onboarding.
       </p>
       <p align="center">
         <a href="https://github.com/youssefsaoud/orqestra">
@@ -127,7 +83,7 @@
     <td width="50%" valign="top">
       <h3 align="center">📡 Dev Job Radar</h3>
       <p align="center">
-        Python-based job monitoring tool that discovers opportunities, scores relevance, removes duplicates, and manages alerts.
+        Python-based job monitoring tool that discovers developer opportunities, scores relevance, removes duplicates, and manages alerts.
       </p>
       <p align="center">
         <a href="https://github.com/youssefsaoud/dev-job-radar">
@@ -140,11 +96,9 @@
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Most Used Languages
 
 <div align="center">
-
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=youssefsaoud&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" height="175" />
 
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=youssefsaoud&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="175" />
 
@@ -160,7 +114,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Youssef_Saoud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <a href="https://medium.com/@saoud.youssef02013">
+  <a href="https://medium.com/@youssefsaoud">
     <img src="https://img.shields.io/badge/Medium-Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
 
